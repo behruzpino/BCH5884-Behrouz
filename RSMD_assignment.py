@@ -56,7 +56,7 @@ def readpdb(pdbname1,pdbname2):
 
 
 def rsmd(list1,list2):
-
+        rsmd_number=0
 	for i in range(0, len(atomlist1)):
 		xdev=((xcord1[i]-xcord2[i])**2)
 		ydev=((ycord1[i]-ycord2[i])**2)
