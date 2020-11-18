@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #https://github.com/behruzpino/BCH5884-Behrouz.git
 #Behrouz_Ghazi_Esfahani
-
+#it needs the "peakutils" module to work properly
 
 
 import numpy
