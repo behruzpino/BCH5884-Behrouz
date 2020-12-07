@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/local/python3
 #Behrouz Ghazi Esfahani	
 #https://github.com/behruzpino/BCH5884-Behrouz.git
 
